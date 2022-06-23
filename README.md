@@ -1,2 +1,0 @@
-# powerbi-project
-finance analytics
